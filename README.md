@@ -1,5 +1,9 @@
 # rock-paper-scissors 😄
-
+## Using the code
+### Clone the repo using HTTPS or prefffered method
+```console
+git clone "repo/url"
+```
 ### How to run:
 ```console
 python3 rock-paper-scissors.py
